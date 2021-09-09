@@ -1,0 +1,35 @@
+a.brand-font{
+    font-weight: 100;
+    font-size: 30px;
+    letter-spacing: 8px;
+}
+
+.andrew-z{
+   width: 100%;
+   height: auto;
+}
+
+
+div.andrew-z-footer{
+    background-color: rgb(245,243,192);
+}
+
+p.andrew-z-footer-text{
+    color: gray;
+}
+
+.about{
+    color: gray;
+    padding-top: 8%;
+}
+
+.fa-soundcloud, .fa-bandcamp{
+    margin: 0 15px 0 0;
+}
+
+.fa-soundcloud, .fa-bandcamp, .fa-envelope{
+    color: gray;
+}
+
+
+
