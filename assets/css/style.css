@@ -1,0 +1,83 @@
+a.brand-font{
+    font-weight: 100;
+    font-size: 30px;
+    letter-spacing: 8px;
+}
+
+.andrew-z{
+   width: 100%;
+   height: auto;
+}
+
+
+div.andrew-z-footer{
+    background-color: rgb(245,243,192);
+}
+
+p.andrew-z-footer-text{
+    color: gray;
+}
+
+div.about{
+    color: gray;
+    padding-top: 8%;
+}
+
+.fa-soundcloud, .fa-bandcamp{
+    margin: 0 15px 0 0;
+}
+
+.fa-soundcloud, .fa-bandcamp, .fa-envelope{
+    color: gray;
+}
+
+/* Had an image overlay issue where the link to 
+my navbar were not working - this solved the isssue */
+div.card-img-overlay {
+    pointer-events: none;
+}
+
+div.playlist, .schedule{
+    background-color: rgb(245,243,192);
+
+}
+
+form{
+  background-color: rgb(245,243,192);
+}
+
+
+/* Upcoming Shows Calander */
+
+    .bit-html-export {
+        width: 100%;
+        background: #fff;
+        font-family: Arial;
+        color: black;
+        font-size: 12px;
+      }
+      .bit-table {
+        width: 100%;
+      }
+      .bit-table td {
+        padding: 7px 10px;
+        vertical-align: middle;
+      }
+
+      .bit-table a {
+        color: #00b4b3;
+        text-decoration: none;
+      }
+
+      /* alternate row background color */
+      .bit-table tr:nth-of-type(2n) {
+        background: #eee;
+      }
+
+      /* separate line between rows */
+      /* .bit-table tr td { border-bottom: 1px solid #ccc } */
+
+      .bit-table .bit-cta {
+        text-align: center;
+        width: 25%;
+      }
